@@ -1,0 +1,60 @@
+{
+  "status":"\u0414",
+  "docx":"notes_tpl.docx",
+  "tag_name": "Этот, создан 20.04.2022 в 15:51",
+  "pattern_id":"369",
+  "section":[
+    {
+      "notes":[
+        {
+          "art_name":"test title3",
+          "news_date":null,
+          "id_art":3,
+          "images":[ ],
+          "art_text":"test text3",
+          "sort":"404_405_3"
+        }
+      ],
+      "status":"\u0420",
+      "tag_name":"First",
+      "pattern_id":"387",
+      "tag_id":405,
+      "sort":"404_405"
+    },
+    {
+      "notes":[
+        {
+          "art_name": "\"Наровчатские новости\" - газета Наровчатского района ",
+          "news_date":"2021-11-17T03:00:00",
+          "id_art":5,
+          "images":[
+            {
+              "original_name":"bor.jpg",
+              "media_uuid":"17199685-12ca-41ac-adaf-f07ef1e956a0",
+              "file_path":"/opt/vit_data/shd_nfs/lvm/articles/17/19/17199685-12ca-41ac-adaf-f07ef1e956a0.jpg",
+              "internal_url":"/storage/articles/17/19/17199685-12ca-41ac-adaf-f07ef1e956a0.jpg",
+              "img_40":"/opt/vit_data/shd_nfs/lvm/articles/17/19/17199685-12ca-41ac-adaf-f07ef1e956a0.jpg"
+            }
+          ],
+          "art_text":"http://www.narovchat.ru/news-3-4752.html",
+          "sort":"404_406_5"
+        },
+        {
+          "art_name": "\"Наровчатские новости\" - газета Наровчатского района ",
+          "news_date":"2021-11-17T03:00:00",
+          "id_art":6,
+          "images":[ ],
+          "art_text":"http://www.narovchat.ru/news-3-4752.html\r\nDEESE",
+          "sort":"404_406_6"
+        }
+      ],
+      "status":"\u0420",
+      "tag_name":"Second",
+      "pattern_id":"388",
+      "tag_id":406,
+      "sort":"404_406"
+    }
+  ],
+  "tag_id":404,
+  "sort":"404"
+}
